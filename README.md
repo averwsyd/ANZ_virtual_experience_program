@@ -13,5 +13,5 @@ __Predictive Analytics__
 
 Explore correlations between annual salary and various customer attributes. Build a simple regression model to predict the annual salary for each customer using the attributes you identified above
 
-# Skills included:
+# Skills involved:
 EDA, Maching learning, Data visulisation with tableau
