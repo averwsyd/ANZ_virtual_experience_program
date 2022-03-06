@@ -11,7 +11,7 @@ __Explorary Data Analysis__
 ## Task 2
 __Predictive Analytics__
 
-Explore correlations between annual salary and various customer attributes. Build a simple regression model to predict the annual salary for each customer using the attributes you identified above
+Exploratory correlations between annual salary and various customer attributes. Build a simple regression model to predict the annual salary for each customer using the attributes you identified above
 
 # Skills involved:
 EDA, Maching learning, Data visulisation (destination map) with tableau
